@@ -40,7 +40,7 @@ and use Nextjs to handel client side processing.
 Run this at the command line:
 
 ```bash
-git clone git@github.com:HeshamAdel0007/Api-LoginSystem.git
+git clone git@github.com:HeshamAdel0007/LoginSystem.git
 ```
 
 ### 2. Install Laravel
